@@ -2,8 +2,8 @@ def introduction(name)
 puts "Hi, my name is #{name}."
 end
 
-
-
+def introduction_with_language(name, language)
+  "Hi, my name is "
 
 
 # Write your code here. If you get stuck, at the very bottom of this lab we've included
